@@ -1,4 +1,4 @@
-7628
+7629
 66C:\Users\sevas\Forkify_JS\node_modules\@parcel\watcher\binding.gyp132998559947995010 0
 77C:\Users\sevas\Forkify_JS\node_modules\lmdb\node_modules\node-addon-api\tools132998559948287575 1
 79C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\css-sticky.js132998558494636386 0
@@ -27,7 +27,7 @@
 73C:\Users\sevas\Forkify_JS\node_modules\@parcel\core\test\fixtures\plugins132998559949731843 1
 77C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\array\virtual\concat.js132998601086429844 0
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\object\to-string.js132998601111732129 0
-30C:\Users\sevas\Forkify_JS\dist132999618969047015 1
+30C:\Users\sevas\Forkify_JS\dist133000358745410944 1
 74C:\Users\sevas\Forkify_JS\node_modules\core-js\features\instance\splice.js132998601109774186 0
 65C:\Users\sevas\Forkify_JS\node_modules\svgo\plugins\reusePaths.js132998558467224554 0
 56C:\Users\sevas\Forkify_JS\node_modules\nan\nan_private.h132998558451425558 0
@@ -42,7 +42,7 @@
 82C:\Users\sevas\Forkify_JS\node_modules\core-js\internals\define-global-property.js132998601087398285 0
 93C:\Users\sevas\Forkify_JS\node_modules\core-js\internals\wrap-error-constructor-with-cause.js132998601113488322 0
 70C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\regions\NZ.js132998558499496849 0
-36C:\Users\sevas\Forkify_JS\index.html132999610294454877 0
+36C:\Users\sevas\Forkify_JS\index.html133000320251460047 0
 80C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\typed-array\int32-array.js132998601101411087 0
 55C:\Users\sevas\Forkify_JS\node_modules\semver\README.md132998558443236242 0
 38C:\Users\sevas\Forkify_JS\node_modules132999347890185090 1
@@ -69,7 +69,7 @@
 71C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\es.math.expm1.js132998601089234137 0
 85C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\lib\_class_private_method_init.js132998559948523638 0
 45C:\Users\sevas\Forkify_JS\node_modules\@lezer132998559935966268 1
-42C:\Users\sevas\Forkify_JS\src\js\config.js132999566589702167 0
+42C:\Users\sevas\Forkify_JS\src\js\config.js133000351491476812 0
 86C:\Users\sevas\Forkify_JS\node_modules\abortcontroller-polyfill\src\abortcontroller.js132998558442050759 0
 64C:\Users\sevas\Forkify_JS\node_modules\yaml\browser\types\set.js132998558462513024 0
 45C:\Users\sevas\Forkify_JS\node_modules\stable132998558438086431 1
@@ -209,7 +209,7 @@
 87C:\Users\sevas\Forkify_JS\node_modules\@parcel\package-manager\test\fixtures\packages\a132998559949047330 1
 67C:\Users\sevas\Forkify_JS\node_modules\node-addon-api\noexcept.gypi132998558438176383 0
 81C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\instance\group-by-to-map.js132998601098239677 0
-38C:\Users\sevas\Forkify_JS\src\js\views132999584096194915 1
+38C:\Users\sevas\Forkify_JS\src\js\views133000303796358923 1
 83C:\Users\sevas\Forkify_JS\node_modules\core-js\features\instance\find-last-index.js132998601095173590 0
 74C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\src\_inherits_loose.js132998559950321824 0
 47C:\Users\sevas\Forkify_JS\src\sass\_recipe.scss132561925780000000 0
@@ -223,18 +223,18 @@
 74C:\Users\sevas\Forkify_JS\node_modules\core-js\full\symbol\metadata-key.js132998601104855762 0
 81C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\svg-fragment.js132998558502352521 0
 61C:\Users\sevas\Forkify_JS\node_modules\is-number\package.json132998561137887437 0
-46C:\Users\sevas\Forkify_JS\src\js\controller.js132999614149577717 0
+46C:\Users\sevas\Forkify_JS\src\js\controller.js133000358741475769 0
+62C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\instance132998601113190182 1
+47C:\Users\sevas\Forkify_JS\node_modules\@nodelib132998559971646944 1
+67C:\Users\sevas\Forkify_JS\node_modules\core-js\internals\perform.js132998601106425830 0
+62C:\Users\sevas\Forkify_JS\node_modules\source-map\CHANGELOG.md132998558450421517 0
 76C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\typed-array\reverse.js132998601108353816 0
 76C:\Users\sevas\Forkify_JS\node_modules\type-fest\source\set-return-type.d.ts132998558461877653 0
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\internals\composite-key.js132998601086400684 0
 90C:\Users\sevas\Forkify_JS\node_modules\@parcel\workers\test\integration\workerfarm\ping.js132998559948347378 0
 70C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\regions\AI.js132998558461520872 0
-43C:\Users\sevas\Forkify_JS\src\js\helpers.js132999481373583040 0
 50C:\Users\sevas\Forkify_JS\node_modules\cosmiconfig132998558461239033 1
-62C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\instance132998601113190182 1
-47C:\Users\sevas\Forkify_JS\node_modules\@nodelib132998559971646944 1
-67C:\Users\sevas\Forkify_JS\node_modules\core-js\internals\perform.js132998601106425830 0
-62C:\Users\sevas\Forkify_JS\node_modules\source-map\CHANGELOG.md132998558450421517 0
+43C:\Users\sevas\Forkify_JS\src\js\helpers.js132999481373583040 0
 75C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\symbol\description.js132998601087875118 0
 57C:\Users\sevas\Forkify_JS\node_modules\picomatch\index.js132998561137967391 0
 72C:\Users\sevas\Forkify_JS\node_modules\core-js\full\number\is-integer.js132998601101979659 0
@@ -250,7 +250,26 @@
 69C:\Users\sevas\Forkify_JS\node_modules\@parcel\css\node\index.js.flow132998559946238425 0
 52C:\Users\sevas\Forkify_JS\node_modules\svgo\lib\svgo132998558472022299 1
 78C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\reflect\is-extensible.js132998601101737607 0
-41C:\Users\sevas\Forkify_JS\src\js\model.js132999570752640531 0
+41C:\Users\sevas\Forkify_JS\src\js\model.js133000301846274936 0
+57C:\Users\sevas\Forkify_JS\node_modules\lmdb\dict\dict.txt132998559950627387 0
+75C:\Users\sevas\Forkify_JS\node_modules\core-js\full\symbol\async-dispose.js132998601084902363 0
+72C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\src\_to_primitive.js132998559950564826 0
+61C:\Users\sevas\Forkify_JS\node_modules\timsort\src\timsort.js132998558444661599 0
+67C:\Users\sevas\Forkify_JS\node_modules\posthtml-render\changelog.md132998559946615107 0
+70C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\regions\DJ.js132998558495319018 0
+73C:\Users\sevas\Forkify_JS\node_modules\core-js\features\symbol\species.js132998601109699733 0
+80C:\Users\sevas\Forkify_JS\node_modules\cosmiconfig\dist\getPropertyByPath.js.map132998558458403709 0
+84C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\lib\_class_private_field_init.js132998559948327446 0
+73C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\flac.js132998558495954549 0
+43C:\Users\sevas\Forkify_JS\node_modules\.bin132998561150715774 1
+78C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\array\virtual\entries.js132998601088494890 0
+78C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.weak-set.from.js132998601093418552 0
+59C:\Users\sevas\Forkify_JS\node_modules\is-glob\package.json132998561137967391 0
+57C:\Users\sevas\Forkify_JS\node_modules\json5\lib\index.js132998559946604075 0
+74C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\slice.js132998601109214538 0
+56C:\Users\sevas\Forkify_JS\src\js\views\paginationView.js133000349275913876 0
+66C:\Users\sevas\Forkify_JS\node_modules\css-tree\lib\lexer\match.js132998558470615393 0
+61C:\Users\sevas\Forkify_JS\node_modules\svgo\lib\svgo\jsAPI.js132998558461206646 0
 60C:\Users\sevas\Forkify_JS\node_modules\@parcel\packager-html132998559946646573 1
 64C:\Users\sevas\Forkify_JS\node_modules\core-js\features\weak-set132998601105679933 1
 52C:\Users\sevas\Forkify_JS\node_modules\color-convert132998558442000889 1
@@ -278,19 +297,6 @@
 62C:\Users\sevas\Forkify_JS\node_modules\terser\lib\transform.js132998558466081243 0
 87C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\css-default-pseudo.js132998558489885255 0
 43C:\Users\sevas\Forkify_JS\src\img\icons.svg132561925780000000 0
-57C:\Users\sevas\Forkify_JS\node_modules\lmdb\dict\dict.txt132998559950627387 0
-75C:\Users\sevas\Forkify_JS\node_modules\core-js\full\symbol\async-dispose.js132998601084902363 0
-72C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\src\_to_primitive.js132998559950564826 0
-61C:\Users\sevas\Forkify_JS\node_modules\timsort\src\timsort.js132998558444661599 0
-67C:\Users\sevas\Forkify_JS\node_modules\posthtml-render\changelog.md132998559946615107 0
-70C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\regions\DJ.js132998558495319018 0
-73C:\Users\sevas\Forkify_JS\node_modules\core-js\features\symbol\species.js132998601109699733 0
-80C:\Users\sevas\Forkify_JS\node_modules\cosmiconfig\dist\getPropertyByPath.js.map132998558458403709 0
-84C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\lib\_class_private_field_init.js132998559948327446 0
-73C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\flac.js132998558495954549 0
-43C:\Users\sevas\Forkify_JS\node_modules\.bin132998561150715774 1
-78C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\array\virtual\entries.js132998601088494890 0
-78C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.weak-set.from.js132998601093418552 0
 76C:\Users\sevas\Forkify_JS\node_modules\core-js\features\iterator\for-each.js132998601096727139 0
 57C:\Users\sevas\Forkify_JS\node_modules\.package-lock.json132999347890689737 0
 77C:\Users\sevas\Forkify_JS\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in132998559950321824 0
@@ -884,7 +890,7 @@
 66C:\Users\sevas\Forkify_JS\node_modules\@parcel\transformer-css\src132998559946404738 1
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\object\is-frozen.js132998601101877689 0
 81C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\string\virtual\match-all.js132998601104502101 0
-53C:\Users\sevas\Forkify_JS\dist\index.f7626f62.css.map132999343457704257 0
+53C:\Users\sevas\Forkify_JS\dist\index.f7626f62.css.map133000313822382164 0
 68C:\Users\sevas\Forkify_JS\node_modules\@parcel\packager-html\LICENSE132998559946084634 0
 63C:\Users\sevas\Forkify_JS\node_modules\lmdb\src\compression.cpp132998559949864777 0
 72C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\es.error.cause.js132998601089088769 0
@@ -930,7 +936,7 @@
 56C:\Users\sevas\Forkify_JS\node_modules\sass\package.json132998561150228295 0
 60C:\Users\sevas\Forkify_JS\node_modules\core-js\web\README.md132998601113538150 0
 58C:\Users\sevas\Forkify_JS\node_modules\yaml\browser\map.js132998558448633992 0
-49C:\Users\sevas\Forkify_JS\dist\index.f7626f62.css132999343457654270 0
+49C:\Users\sevas\Forkify_JS\dist\index.f7626f62.css133000313822382164 0
 57C:\Users\sevas\Forkify_JS\node_modules\yaml\dist\index.js132998558445641526 0
 66C:\Users\sevas\Forkify_JS\node_modules\yaml\dist\legacy-exports.js132998558447610001 0
 66C:\Users\sevas\Forkify_JS\node_modules\react-error-overlay\LICENSE132998559946024898 0
@@ -1323,7 +1329,7 @@
 77C:\Users\sevas\Forkify_JS\node_modules\type-fest\source\iterable-element.d.ts132998558452234847 0
 67C:\Users\sevas\Forkify_JS\node_modules\@parcel\transformer-json\lib132998559946208520 1
 69C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\iterator.js132998601102771449 0
-48C:\Users\sevas\Forkify_JS\dist\logo.726d37a8.png132999343457664267 0
+48C:\Users\sevas\Forkify_JS\dist\logo.726d37a8.png133000313822452985 0
 74C:\Users\sevas\Forkify_JS\node_modules\type-fest\source\literal-union.d.ts132998558452929231 0
 76C:\Users\sevas\Forkify_JS\node_modules\type-fest\source\merge-exclusive.d.ts132998558457978346 0
 63C:\Users\sevas\Forkify_JS\node_modules\svgo\lib\svgo\plugins.js132998558462401667 0
@@ -1777,8 +1783,6 @@
 90C:\Users\sevas\Forkify_JS\node_modules\@parcel\core\test\fixtures\main-global\package.json132998559951376423 0
 57C:\Users\sevas\Forkify_JS\node_modules\domelementtype\lib132998558446462670 1
 75C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.map.upsert.js132998601092409290 0
-66C:\Users\sevas\Forkify_JS\node_modules\css-tree\lib\lexer\match.js132998558470615393 0
-61C:\Users\sevas\Forkify_JS\node_modules\svgo\lib\svgo\jsAPI.js132998558461206646 0
 84C:\Users\sevas\Forkify_JS\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js132998559947248978 0
 64C:\Users\sevas\Forkify_JS\node_modules\@swc\helpers\src\index.js132998559950653166 0
 52C:\Users\sevas\Forkify_JS\node_modules\svgo\bin\svgo132998558435058120 0
@@ -2675,7 +2679,7 @@
 87C:\Users\sevas\Forkify_JS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c132998559949559732 0
 66C:\Users\sevas\Forkify_JS\node_modules\@parcel\watcher\src\windows132998559948593299 1
 88C:\Users\sevas\Forkify_JS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c132998559949711813 0
-51C:\Users\sevas\Forkify_JS\dist\favicon.8b2f57bf.png132999343457684254 0
+51C:\Users\sevas\Forkify_JS\dist\favicon.8b2f57bf.png133000313822716396 0
 76C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\reverse.js132998601108309529 0
 92C:\Users\sevas\Forkify_JS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c132998559949508380 0
 60C:\Users\sevas\Forkify_JS\node_modules\error-ex\package.json132998558433671461 0
@@ -2705,8 +2709,6 @@
 57C:\Users\sevas\Forkify_JS\node_modules\json5\package.json132998559947746935 0
 81C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\es.typed-array.index-of.js132998601091045839 0
 55C:\Users\sevas\Forkify_JS\node_modules\json5\lib\cli.js132998559946114527 0
-59C:\Users\sevas\Forkify_JS\node_modules\is-glob\package.json132998561137967391 0
-57C:\Users\sevas\Forkify_JS\node_modules\json5\lib\index.js132998559946604075 0
 57C:\Users\sevas\Forkify_JS\node_modules\json5\lib\parse.js132998559947194744 0
 71C:\Users\sevas\Forkify_JS\node_modules\core-js\features\string\fixed.js132998601095816412 0
 60C:\Users\sevas\Forkify_JS\node_modules\json5\lib\register.js132998559947268910 0
@@ -3019,8 +3021,8 @@
 66C:\Users\sevas\Forkify_JS\node_modules\entities\lib\encode-trie.js132998559947258948 0
 68C:\Users\sevas\Forkify_JS\node_modules\core-js\features\array-buffer132998601109171741 1
 71C:\Users\sevas\Forkify_JS\node_modules\core-js\features\regexp\index.js132998601100420110 0
-77C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\object\lookup-setter.js132998601103990037 0
 63C:\Users\sevas\Forkify_JS\node_modules\domhandler\lib\node.d.ts132998558445620324 0
+77C:\Users\sevas\Forkify_JS\node_modules\core-js\stable\object\lookup-setter.js132998601103990037 0
 73C:\Users\sevas\Forkify_JS\node_modules\cosmiconfig\dist\readFile.d.ts.map132998558460481382 0
 72C:\Users\sevas\Forkify_JS\node_modules\core-js\features\instance\trim.js132998601112326281 0
 72C:\Users\sevas\Forkify_JS\node_modules\core-js\features\string\cooked.js132998601086910264 0
@@ -4342,7 +4344,7 @@
 48C:\Users\sevas\Forkify_JS\node_modules\.bin\sass132998561150715774 0
 76C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.map.emplace.js132998601092169938 0
 74C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.map.every.js132998601092184131 0
-48C:\Users\sevas\Forkify_JS\dist\index.e37f48ea.js132999618969019204 0
+48C:\Users\sevas\Forkify_JS\dist\index.e37f48ea.js133000358745330023 0
 70C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\regions\ER.js132998558495665508 0
 75C:\Users\sevas\Forkify_JS\node_modules\core-js\modules\esnext.map.filter.js132998601092194102 0
 86C:\Users\sevas\Forkify_JS\node_modules\caniuse-lite\data\features\sharedarraybuffer.js132998558502082111 0
@@ -5142,7 +5144,6 @@
 74C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\group.js132998601098557276 0
 72C:\Users\sevas\Forkify_JS\node_modules\core-js\features\object\assign.js132998601084866620 0
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\push.js132998601106742615 0
-74C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\slice.js132998601109214538 0
 67C:\Users\sevas\Forkify_JS\node_modules\core-js\actual\array\join.js132998601102901573 0
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\sort.js132998601109647094 0
 78C:\Users\sevas\Forkify_JS\node_modules\core-js\full\array\virtual\to-sorted.js132998601111478457 0
@@ -5362,8 +5363,8 @@
 73C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\delete-all.js132998601087700399 0
 81C:\Users\sevas\Forkify_JS\node_modules\core-js\features\function\virtual\index.js132998601100320424 0
 70C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\emplace.js132998601088088717 0
-68C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\every.js132998601093586119 0
 75C:\Users\sevas\Forkify_JS\node_modules\core-js\features\array\find-index.js132998601094903702 0
+68C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\every.js132998601093586119 0
 71C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\find-key.js132998601095012523 0
 67C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\find.js132998601095637117 0
 67C:\Users\sevas\Forkify_JS\node_modules\core-js\features\map\from.js132998601097184035 0
@@ -6979,7 +6980,7 @@
 68C:\Users\sevas\Forkify_JS\node_modules\@parcel\runtime-react-refresh132998559946584143 1
 71C:\Users\sevas\Forkify_JS\node_modules\@parcel\transformer-posthtml\lib132998559946584143 1
 57C:\Users\sevas\Forkify_JS\node_modules\@parcel\source-map132998559949970979 1
-52C:\Users\sevas\Forkify_JS\dist\index.e37f48ea.js.map132999618969036981 0
+52C:\Users\sevas\Forkify_JS\dist\index.e37f48ea.js.map133000358745410944 0
 63C:\Users\sevas\Forkify_JS\node_modules\@parcel\transformer-html132998559947316088 1
 64C:\Users\sevas\Forkify_JS\node_modules\@parcel\transformer-image132998559947278875 1
 71C:\Users\sevas\Forkify_JS\node_modules\@parcel\optimizer-terser\LICENSE132998559946094590 0
@@ -7312,7 +7313,7 @@
 107C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser132998559950029699 1
 115C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude132998559950017697 1
 108C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback132998559950040631 1
-41C:\Users\sevas\Forkify_JS\dist\index.html132999610300361507 0
+41C:\Users\sevas\Forkify_JS\dist\index.html133000320253225603 0
 104C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main132998559950073313 1
 106C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module132998559950085427 1
 126C:\Users\sevas\Forkify_JS\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down132998559950190577 1
@@ -7625,5 +7626,5 @@
 50C:\Users\sevas\Forkify_JS\node_modules\.bin\terser132998559069850459 0
 54C:\Users\sevas\Forkify_JS\node_modules\.bin\terser.cmd132998559069850459 0
 54C:\Users\sevas\Forkify_JS\node_modules\.bin\terser.ps1132998559069850459 0
-49C:\Users\sevas\Forkify_JS\dist\icons.21bad73c.svg132999343457684254 0
+49C:\Users\sevas\Forkify_JS\dist\icons.21bad73c.svg133000313822572162 0
 52C:\Users\sevas\Forkify_JS\dist\index.62406edb.js.map132998561166154393 0
